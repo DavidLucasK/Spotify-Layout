@@ -20,7 +20,7 @@ export function Footer() {
               <Shuffle size={20} className='text-zinc-200/60 hover:text-zinc-200/100' />
               <SkipBack size={20} className='text-zinc-200/60 hover:text-zinc-200/100' />
               <button className='w-10 h-10 flex items-center justify-center pl-1 rounded-full bg-white text-black hover:scale-105 hover:ease-in-out duration-150'>
-                  <Play />
+                <img src="/play.png" width={16} height={16} alt="Play"/>
               </button>
               <SkipForward size={20} className='text-zinc-200/60 hover:text-zinc-200/100' />
               <Repeat size={20} className='text-zinc-200/60 hover:text-zinc-200/100' />
