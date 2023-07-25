@@ -16,7 +16,7 @@ export default function Home() {
               <button className='rounded-full bg-black/30 hover:bg-black/60 p-1'>
                 <ChevronRight/>
               </button>
-              <a href="" className='flex items-center gap-12'>asdouhas</a>
+              <a href="" className='flex items-center gap-12'></a>
             </div>
 
             <h1 className='font-bold text-3xl mt-10'>Boa tarde</h1>
