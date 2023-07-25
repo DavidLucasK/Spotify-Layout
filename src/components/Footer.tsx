@@ -40,7 +40,7 @@ export function Footer() {
             <div className='flex items-center gap-.5'>
               <Volume size={20} />
               <div className='pai h-1 rounded-full w-24 bg-zinc-600'>
-                <div className='bg-zinc-200 w-10 h-1 rounded-full hover: pai.bg-green-600'></div>
+                <div className='bg-zinc-200 w-10 h-1 rounded-full hover:bg-green-600'></div>
               </div>
             </div>
           </div>
