@@ -27,8 +27,8 @@ export function Footer() {
             </div>
             <div className='flex items-center gap-2'>
                 <span className='text-xs text-zinc-400'>0:31</span>
-                <div className='h-1 rounded-full w-96 bg-zinc-600'>
-                  <div className='bg-zinc-200 w-24 h-1 rounded-full hover:bg-green-600'></div>
+                <div className='w-96 h-1 rounded-full bg-zinc-600'>
+                  <div className='w-24 h-1 rounded-full bg-zinc-200 hover:bg-green-600'></div>
                 </div>
                 <span className='text-xs text-zinc-400'>2:15</span>
             </div>
