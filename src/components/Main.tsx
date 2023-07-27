@@ -1,6 +1,6 @@
 import { Heart, ChevronLeft, ChevronRight, Play} from 'lucide-react'
-import { TopAlbums } from './Top-Albums'
-import { BottomAlbums } from './Bottom-Albums'
+import { TopAlbums } from '@/components/Top-Albums'
+import { BottomAlbums } from '@/components/Bottom-Albums'
 import Link from 'next/link'
 
 export function Main() {
