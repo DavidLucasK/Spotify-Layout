@@ -6,7 +6,14 @@ module.exports = {
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      translate: {
+        '0.75': '4px',
+      },
+      transitionDuration: {
+        '2000': '2000ms',
+      },
+    },
   },
   plugins: [],
 }
